@@ -7,4 +7,4 @@ langchain-text-splitters
 langchain-huggingface
 faiss-cpu
 pypdf
-sentence-tranformers
+sentence-transformers
